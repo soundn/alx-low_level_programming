@@ -5,7 +5,7 @@
  *
  * Description: 'the program's description'
  *
- * Return Always (Successful)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
