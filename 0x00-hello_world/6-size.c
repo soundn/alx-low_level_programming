@@ -3,6 +3,8 @@
 /**
  * main - Entry point
  *
+ * Description: 'the program's description'
+ *
  * Return Always (Successful)
  */
 int main(void)
