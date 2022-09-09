@@ -20,6 +20,6 @@ int main(void)
 	for (no = 0; no < 10; ++no)
 		putchar((no % 10) + '0');
 
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
