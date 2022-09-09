@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-/* main is everything */
-/* betty style doc for function main goes there */
+/**
+* main - Entry point
+*
+*/ 
 int main(void)
 {
 	int n;
