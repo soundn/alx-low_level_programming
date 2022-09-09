@@ -17,8 +17,8 @@ int main(void)
 {
 	int no;
 
-	for (no = 'z'; no => 'a'; no--)
-		putchar((no);
+	for (no = 'z'; no >= 'a'; no--)
+		putchar(no);
 
 	putchar('\n');
 	return (0);
