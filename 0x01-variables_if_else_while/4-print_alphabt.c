@@ -1,8 +1,7 @@
 /*
  * File: 4-print_alphabt.c
- * 
  * Auth: kenneth nwankwo
- * 
+ *
  */
 
 #include <stdio.h>
