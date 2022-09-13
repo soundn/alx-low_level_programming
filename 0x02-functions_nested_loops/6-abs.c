@@ -1,29 +1,17 @@
 #include "main.h"
-
 /**
- * *print_sign - Funtion
- * *
- * *@n: variable
- * *Return: Always 0
+ *  * _abs - computes the absolute value of an integrer
+ *   *
+ *    * @n: the int to check
+ *     *
+ *      * Return: the absolute value of int
+ *       *
  */
-
-int print_sign(int n)
+int _abs(int n)
 {
-
-if (n > 0)
+if (n >= 0)
 {
-_putchar ('+');
-return (1);
+return (n);
 }
-else if (n == 0)
-{
-_putchar ('0');
-return (0);
-}
-else
-{
-_putchar ('-');
-return (-1);
-}
-
+return (-n);
 }
