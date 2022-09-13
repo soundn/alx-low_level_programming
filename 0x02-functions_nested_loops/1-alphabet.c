@@ -1,20 +1,16 @@
 #include "main.h"
+#include <stdio.h>
 /**
-* print_alphabet - prints the alphabet in lowercase, followed by a new line.
+* main - check the code
 * Auth: Kenneth Nwankwo
-* File: 1-alphabet.c
-* print_alphabet - prints the alphabet in lowercase, followed by a new line.
+* File: 0-putchar.c
+* Return: Always 0
 */
 
-void print_alphabet(void)
+int main(void)
 {
-char ch;
-
-ch = 'a';
-while (ch <= 'z')
-{
-_putchar(ch);
-ch++;
-}
-_putchar('\n');
+	char i;
+	for(char i = 'a'; i <= 'z'; ++i)
+		_putchar(i);
+	_putchar('\n');
 }
