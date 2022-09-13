@@ -1,6 +1,4 @@
-#include <stdio>
 #include "main.h"
-
 /**
 * main - check the code
 * Auth: Kenneth Nwankwo
