@@ -2,16 +2,15 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- * _isdigit - function checks for 0 to 9.
- * _isupper - checks if the letters are uppercase
- * *  @c: input.
- * *
- * *  Return: 1 if c is uppercase
- * 0 otherwise
+ * * mul - a function that multiplies two integers
+ * * @a: first input
+ * * @b: second input
+ * * Return: multiplication result of the 2 inputs
  */
 int mul(int a, int b)
 {
 	int result;
+
 	result = (a * b);
 	return (result);
 }
