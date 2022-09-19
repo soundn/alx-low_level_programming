@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * reste_to_98 - function checks for upper case.
+ * reset_to_98 - function checks for upper case.
  * _isupper - checks if the letters are uppercase
  * *  @n: input.
  * *
