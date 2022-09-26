@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * _memcpy - Copies @n bytes from the memory area pointed
  *           to by @src into that pointed to by @dest.
