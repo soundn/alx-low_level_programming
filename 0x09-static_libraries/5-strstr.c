@@ -4,7 +4,7 @@
  *  * _strstr - funtion locates a substring.
  *   *
  *    * @haystack:  This is the main C string to be scanned.
- *     * @needle: This is the small string to be searched with-in haystack string.
+ *     * @needle: This is the  haystack string.
  *      *
  *       * Return: Returns the transformed pointer.
  *        *
